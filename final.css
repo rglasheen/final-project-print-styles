@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media print {
+	
+	header nav, a, ul,  {
+		display: none;
+	}
+	
+	h2 {
+	img: visible !important;
+	}
+	
+	.portfolio-section {
+		display: none;
+	}
+	
+	.pic-frame {
+		display: none;
+	}
+	
+}
